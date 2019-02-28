@@ -6,6 +6,7 @@
     border: 1px solid black;
     border-radius: 10px;
     transition: all .1s ease-in-out;
+    cursor: pointer;
 }
 
 .style-list:hover{
