@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 
-import App from './Practice2/PracticeArray';
+import App from './AppStyles/App';
 
 ReactDOM.render(<App/>,document.getElementById('root'))
 

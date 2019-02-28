@@ -1,0 +1,14 @@
+.style-list{
+    width: 70%;
+    max-width: 50rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    transition: all .1s ease-in-out;
+}
+
+.style-list:hover{
+    transform: translateY(-5px);
+    box-shadow: 5px 5px 5px gray
+}
